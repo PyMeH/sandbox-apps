@@ -1,0 +1,16 @@
+.metadata
+.recommenders
+.settings
+*.sw?
+.#*
+*#
+*~
+bin
+build
+target
+dependency-reduced-pom.xml
+*.sublime-*
+/scratch
+.gradle
+.idea
+*.iml
